@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 GPA / CGPA Calculator
+# 🧮 GPA / CGPA Calculator
 
 ### Use GPA / CGPA Calculator free on ToolAdda — quick, accurate, and browser-based.
 
