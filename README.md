@@ -9,7 +9,7 @@
 [![Free & Open](https://img.shields.io/badge/100%25-Free-10b981?style=for-the-badge)](https://tooladda.online/calculators/gpa-cgpa-calculator.html)
 [![Category](https://img.shields.io/badge/Calculators-f59e0b?style=for-the-badge)](#)
 
-**Free GPA & CGPA calculator. Compute semester SGPA, combine semesters into a CGPA, convert CGPA to percentage, and find the GPA you need to reach a target.**
+**Free GPA & CGPA calculator with SGPA, cumulative CGPA, CGPA-to-percentage conversion, GPA scale converter, and a target-GPA planner. Works with 4.0, 10-point (India) or any custom grading scale — 100% private, in your browser.**
 
 [🚀 **Open GPA / CGPA Calculator Now →**](https://tooladda.online/calculators/gpa-cgpa-calculator.html)
 
@@ -103,6 +103,10 @@ Visit tooladda.online — search for GPA / CGPA Calculator or use the link in th
   <code>4.0 gpa scale</code>&nbsp;
   <code>10 point cgpa scale</code>&nbsp;
   <code>gpa scale converter</code>&nbsp;
+  <code>vtu cgpa to percentage</code>&nbsp;
+  <code>anna university cgpa to percentage</code>&nbsp;
+  <code>cgpa calculator india</code>&nbsp;
+  <code>gpa calculator online free</code>&nbsp;
 </p>
 
 ---
@@ -119,4 +123,4 @@ Made with ❤️ by [ToolAdda.online](https://tooladda.online) · [GitHub Organi
 
 </div>
 
-<!-- SEO: GPA / CGPA Calculator, gpa calculator, cgpa calculator, sgpa calculator, cgpa to percentage calculator, gpa to percentage, cumulative gpa calculator, college gpa calculator, semester gpa calculator, what gpa do i need, 4.0 gpa scale, 10 point cgpa scale, gpa scale converter, tooladda, free online tool -->
+<!-- SEO: GPA / CGPA Calculator, gpa calculator, cgpa calculator, sgpa calculator, cgpa to percentage calculator, gpa to percentage, cumulative gpa calculator, college gpa calculator, semester gpa calculator, what gpa do i need, 4.0 gpa scale, 10 point cgpa scale, gpa scale converter, vtu cgpa to percentage, anna university cgpa to percentage, cgpa calculator india, gpa calculator online free, tooladda, free online tool -->
